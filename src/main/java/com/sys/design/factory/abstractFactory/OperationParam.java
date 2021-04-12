@@ -5,11 +5,24 @@ import lombok.Data;
 import java.math.BigDecimal;
 
 /**
- * Created by zhaozongqi on 2021/4/11
+ * author:zhaozongqi
+ * describe:加减乘除实体
  */
 @Data
 public class OperationParam {
+
+    /**
+     * 类型：+ — * /
+     */
     private String type;
+
+    /**
+     * 第一个数
+     */
     private BigDecimal a;
+
+    /**
+     * 第二个数
+     */
     private BigDecimal b;
 }

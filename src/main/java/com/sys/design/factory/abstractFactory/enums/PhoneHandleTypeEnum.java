@@ -1,8 +1,13 @@
 package com.sys.design.factory.abstractFactory.enums;
 
-
+/**
+ * author:zhaozongqi
+ * describe:handler枚举
+ */
 public enum PhoneHandleTypeEnum {
+
     APPLE("apple", "appleHandler"),
+
     VIVO("vivo", "vivoHandler");
 
     private String value;

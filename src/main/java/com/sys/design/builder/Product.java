@@ -1,7 +1,8 @@
 package com.sys.design.builder;
 
 /**
- * Created by zhaozongqi on 2021/4/11
+ * author:zhaozongqi
+ * describe:苹果手机控制器
  */
 public class Product {
 

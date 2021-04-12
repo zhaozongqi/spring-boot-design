@@ -1,7 +1,8 @@
 package com.sys.design.factory.abstractFactory.base;
 
 /**
- * Created by zhaozongqi on 2019/10/1
+ * author:zhaozongqi
+ * describe:抽象方法
  */
 public abstract class PhoneInterface {
 
